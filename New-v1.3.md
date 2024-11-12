@@ -1,10 +1,10 @@
 {
-"Title": "✅  اینترنت آزاد  ✅",
-"Description": "از کانال تلگرام فیلترشکن بدون قطعی و سرور V2Ray دریافت کنید ⚡️\nمخصوص تمام اپراتورها 😍",
-"Link": "tg://join?invite=qFnTciYSoWhlYTQ0",
-"ColorWave": "#AEEA00",
-"Color": "#FFA500",
-"ColorWaveTwo": "#EEFF41",
+"Title": "❗️   اطلاعیه   ❗️",
+"Description": "بزودی فیلترینگ شدیدتری اعمال میشه ، برای جلوگیری از قطع شدن اینترنت خوتون لطفا فورا عضو کانال تلگرامی ما شوید 🌹",
+"Link": "tg://join?invite=TqGubwYkAJdiMmY8",
+"ColorWave": "#ffff00",
+"Color": "#00B0FF",
+"ColorWaveTwo": "#ffff80",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,12 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "9204661037",
+"MessageID": "9295527835",
 "ShowTime": "3",
-"Button": " دریافت فیلترشکن ",
-"ButtonCancell": "  ",
+"Button": " ⏩  عضویت اجباری  ⏪ ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
-
-
