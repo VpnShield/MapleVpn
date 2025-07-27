@@ -1,10 +1,10 @@
 {
-  "Title": "❌ فورررری اختلال اینترنت ملی 😱😱🔥 ",
-  "Description": "بزودی اینترنت ملی میشه و اختلال زیادی هست ، فورا عضو کانال تلگرام بشو تا دسترسیت به اینترنت قطع نشه 👇🏻👇🏻👇🏻",
-  "Link": "tg://join?invite=SxBfGxchAVQ0NTZk",
+  "Title": "☆  بروزرسانی جدید  ☆",
+  "Description": "سلام دوست عزیزم 🌺\r\n\r\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+  "Link": "tg://resolve?domain=Vpn_Shield",
   "ColorWave": "#ffff00",
-  "Color": "#ffa500",
-  "ColorWaveTwo": "#ff6e40",
+  "Color": "#ffff00",
+  "ColorWaveTwo": "#ffd600",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -15,10 +15,10 @@
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
   "Cancellable": "true",
-  "MessageID": "39280000283",
-  "ShowTime": "3",
-  "Button": " عضویت اجباری ",
-  "ButtonCancell": " نمیخوام ",
+  "MessageID": "1",
+  "ShowTime": "999",
+  "Button": "  دریافت نسخه جدید  ",
+  "ButtonCancell": " بعدا ",
   "Closure": "true",
   "Show": "on"
 }
